@@ -1,0 +1,6 @@
+{
+  "name": "JioHotstar",
+  "description": "Stream and upload movies, web series, sports, and originals with media player, studio upload, and watchlist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
